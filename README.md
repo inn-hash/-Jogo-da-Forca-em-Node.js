@@ -1,7 +1,6 @@
-# -Jogo-da-Forca-em-Node.js
 
 
-**Desenvolvido por:** Isly do Nascimento Neres
+**Desenvolvido por:** Isly Nascimento Neres
 **Atividade:** Exercício #08 de JavaScript  
 
 Este é um jogo de console interativo da Forca criado puramente em JavaScript rodando sobre o ambiente estrutural do Node.js.
