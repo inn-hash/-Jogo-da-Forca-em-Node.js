@@ -1,0 +1,16 @@
+{
+  "name": "jogo-da-forca",
+  "version": "1.0.0",
+  "description": "Jogo da Forca interativo rodando no terminal com Node.js",
+  "main": "forca.js",
+  
+  "scripts": {
+    "start": "node forca.js"
+  },
+  "keywords": [],
+  "author": "Seu Nome Completo",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
