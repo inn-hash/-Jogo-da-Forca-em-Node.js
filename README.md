@@ -27,7 +27,7 @@ Certifique-se de possuir o [Node.js](https://nodejs.org/) instalado em sua máqu
    ```bash
    npm install
 
-   ## 🛠️ Créditos e Referências
+## 🛠️ Créditos e Referências
 
 O desenvolvimento deste projeto foi fundamentado em documentações oficiais, padrões de engenharia de software e recursos da comunidade JavaScript. Abaixo estão listadas as principais fontes utilizadas:
 
